@@ -52,7 +52,7 @@ main {
 .skills {
     height: 100%;
     width: 10em;
-    margin-right: 20%;
+    margin-right: 2%;
     float: right;
     text-align: center;
     background-color: aqua;
@@ -71,5 +71,11 @@ main {
 .container {
     background-color: blueviolet;
 
+}
+
+img {
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
 }
 
