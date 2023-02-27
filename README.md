@@ -39,9 +39,14 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 [Icons](https://stackoverflow.com/questions/38307278/adding-custom-icon-to-html-page)
 
+[Profile Icon](https://uxwing.com/user-profile-icon/), 
+[Experience Icon](https://uxwing.com/work-experience-icon/),
+[Value Icon](https://thenounproject.com/icon/added-value-2121701/)
+
 
 License/Copyright
 =================
+Textual content is copyright Vaibhav Chugh (C) 2023 under the CC-BY-SA
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
