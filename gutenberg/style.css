@@ -1,0 +1,60 @@
+body {
+    font-family: "Bookman Old Style", "Times New Roman", serif;
+    background: url("assets/images/old_theme2.jpg");
+    background-size: 100%;
+    background-repeat: repeat-y;
+    background-color:#a8a689;
+    color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: 4px;
+    color:  #3d2b01;
+    font-weight: bold;
+    font-size: large;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+    border: 2px solid rgb(80, 5, 40);
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 300;
+    margin: 20px;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    height: auto;
+}
+
+figcaption{
+    font-size: 10px;
+    font-style: italic;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+}
+
+a:link {
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.mynote {
+    background-color: antiquewhite;
+    border: 2px solid #3d2b01;
+    padding: 10px;
+    margin: 20px;
+}

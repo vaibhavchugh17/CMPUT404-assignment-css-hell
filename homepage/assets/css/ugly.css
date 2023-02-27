@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(215, 70, 70);
+    color: black;
+    text-align: center;
+    position: relative;
+    height: 20vh;
+}
+
+.name-main{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.name-summary{
+    font-weight: 500;
+    font-size: 15px;
+
+}
+
+nav{
+    background-color: rgb(224, 249, 4);
+}
+
+nav ul {
+    margin: 0;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    background-color: rgb(224, 249, 4);
+    color: black;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+main {
+    height: 100%;
+    padding-bottom: 50pt;    
+    
+}
+
+.skills {
+    height: 100%;
+    width: 10em;
+    margin-right: 20%;
+    float: right;
+    text-align: center;
+    background-color: aqua;
+}
+
+.allskills {
+    padding: 0
+}
+
+.skill {
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.container {
+    background-color: blueviolet;
+
+}
+
